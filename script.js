@@ -184,11 +184,11 @@ const castles = {
   },
 
     "Fort Snowhawk": {
-        owner: "Necomancers",
-        commander: "Unknown",
+        owner: "Imperial Legion",
+        commander: "Centurion Darvin",
         garrison: 10,
         supplies: "Unknown",
-        status: "Unknown",
+        status: "Consolidating",
         description: "Unknown"
   }
 };

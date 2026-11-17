@@ -16,7 +16,7 @@ const holds = {
   },
 
   "The Reach": {
-    owner: "Neutral",
+    owner: "Mede Empire",
     capital: "Markarth",
     jarl: "Jarl Jothar Iron-Helm II",
     strength: "★★★★☆",
@@ -26,7 +26,7 @@ const holds = {
   "Whiterun": {
     owner: "Neutral",
     capital: "Whiterun",
-    jarl: "Jarl Balgruuf the Greater",
+    jarl: "Jarl Alaric Lupercal",
     strength: "★★★★★",
     description: "Whiterun controls the centre of Skyrim and remains a decisive strategic prize. Roads from nearly every major region pass through the hold."
   },
@@ -57,9 +57,9 @@ const holds = {
 
   "The Rift": {
     owner: "Neutral",
-    capital: "Regent Signy Windtorn",
-    jarl: "Regent Signy Windtorn",
-    strength: "★☆☆☆☆",
+    capital: "Riften",
+    jarl: "Jarl Signy Windtorn",
+    strength: "★★★☆☆",
     description: "The Rift controls routes into Morrowind and southern Skyrim. Its forests and waterways complicate military operations."
   }
 };
